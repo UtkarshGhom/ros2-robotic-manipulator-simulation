@@ -1,0 +1,3 @@
+[console_scripts]
+add_box = scene_manager.add_box:main
+

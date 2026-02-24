@@ -1,0 +1,59 @@
+[0.575s] Invoking command in '/home/utkarsh/arm_ws/src/robotic_arm_description': PYTHONPATH=/home/utkarsh/arm_ws/build/robotic_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robotic_arm_description build --build-base /home/utkarsh/arm_ws/build/robotic_arm_description/build install --record /home/utkarsh/arm_ws/build/robotic_arm_description/install.log --single-version-externally-managed install_data
+[0.702s] running egg_info
+[0.703s] creating ../../build/robotic_arm_description/robotic_arm_description.egg-info
+[0.703s] writing ../../build/robotic_arm_description/robotic_arm_description.egg-info/PKG-INFO
+[0.703s] writing dependency_links to ../../build/robotic_arm_description/robotic_arm_description.egg-info/dependency_links.txt
+[0.703s] writing entry points to ../../build/robotic_arm_description/robotic_arm_description.egg-info/entry_points.txt
+[0.703s] writing requirements to ../../build/robotic_arm_description/robotic_arm_description.egg-info/requires.txt
+[0.703s] writing top-level names to ../../build/robotic_arm_description/robotic_arm_description.egg-info/top_level.txt
+[0.703s] writing manifest file '../../build/robotic_arm_description/robotic_arm_description.egg-info/SOURCES.txt'
+[0.704s] reading manifest file '../../build/robotic_arm_description/robotic_arm_description.egg-info/SOURCES.txt'
+[0.705s] writing manifest file '../../build/robotic_arm_description/robotic_arm_description.egg-info/SOURCES.txt'
+[0.705s] running build
+[0.705s] running build_py
+[0.705s] creating /home/utkarsh/arm_ws/build/robotic_arm_description/build
+[0.705s] creating /home/utkarsh/arm_ws/build/robotic_arm_description/build/lib
+[0.705s] creating /home/utkarsh/arm_ws/build/robotic_arm_description/build/lib/robotic_arm_description
+[0.705s] copying robotic_arm_description/__init__.py -> /home/utkarsh/arm_ws/build/robotic_arm_description/build/lib/robotic_arm_description
+[0.705s] running install
+[0.705s] running install_lib
+[0.706s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description
+[0.706s] copying /home/utkarsh/arm_ws/build/robotic_arm_description/build/lib/robotic_arm_description/__init__.py -> /home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description
+[0.706s] byte-compiling /home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description/__init__.py to __init__.cpython-310.pyc
+[0.706s] running install_data
+[0.706s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/ament_index
+[0.706s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/ament_index/resource_index
+[0.706s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/ament_index/resource_index/packages
+[0.706s] copying resource/robotic_arm_description -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/ament_index/resource_index/packages
+[0.706s] copying package.xml -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description
+[0.706s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/launch
+[0.706s] copying launch/gazebo.launch.py -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/launch
+[0.706s] copying launch/display.launch.py -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/launch
+[0.706s] copying launch/spawn_box.launch.py -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/launch
+[0.707s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] copying urdf/robotic_arm.trans -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] copying urdf/materials.xacro -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] copying urdf/robotic_arm_moveit.xacro -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] copying urdf/robotic_arm.gazebo -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] copying urdf/robotic_arm.xacro -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/urdf
+[0.707s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.707s] copying meshes/link_2_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.708s] copying meshes/link_1_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.708s] copying meshes/base_link.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.709s] copying meshes/Gripper_Base_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.709s] copying meshes/Gripper_R_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.709s] copying meshes/Gripper_L_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.709s] copying meshes/link_4_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.710s] copying meshes/gear_R_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.710s] copying meshes/link_3_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.710s] copying meshes/gear_L_1.stl -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/meshes
+[0.711s] creating /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/config
+[0.711s] copying config/my_controllers.yaml -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/config
+[0.711s] copying config/display.rviz -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/config
+[0.711s] copying config/gazebo.rviz -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/config
+[0.711s] copying config/ros_gz_bridge_gazebo.yaml -> /home/utkarsh/arm_ws/install/robotic_arm_description/share/robotic_arm_description/config
+[0.711s] running install_egg_info
+[0.712s] Copying ../../build/robotic_arm_description/robotic_arm_description.egg-info to /home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description-0.0.0-py3.10.egg-info
+[0.712s] running install_scripts
+[0.724s] writing list of installed files to '/home/utkarsh/arm_ws/build/robotic_arm_description/install.log'
+[0.741s] Invoked command in '/home/utkarsh/arm_ws/src/robotic_arm_description' returned '0': PYTHONPATH=/home/utkarsh/arm_ws/build/robotic_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robotic_arm_description build --build-base /home/utkarsh/arm_ws/build/robotic_arm_description/build install --record /home/utkarsh/arm_ws/build/robotic_arm_description/install.log --single-version-externally-managed install_data

@@ -1,0 +1,1 @@
+/home/utkarsh/arm_ws/src/moveit_cfg/launch/moveit_rviz.launch.py

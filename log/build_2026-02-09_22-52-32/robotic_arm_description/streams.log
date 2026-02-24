@@ -1,0 +1,20 @@
+[0.503s] Invoking command in '/home/utkarsh/arm_ws/src/robotic_arm_description': PYTHONPATH=/home/utkarsh/arm_ws/build/robotic_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robotic_arm_description build --build-base /home/utkarsh/arm_ws/build/robotic_arm_description/build install --record /home/utkarsh/arm_ws/build/robotic_arm_description/install.log --single-version-externally-managed install_data
+[0.630s] running egg_info
+[0.631s] writing ../../build/robotic_arm_description/robotic_arm_description.egg-info/PKG-INFO
+[0.631s] writing dependency_links to ../../build/robotic_arm_description/robotic_arm_description.egg-info/dependency_links.txt
+[0.631s] writing entry points to ../../build/robotic_arm_description/robotic_arm_description.egg-info/entry_points.txt
+[0.631s] writing requirements to ../../build/robotic_arm_description/robotic_arm_description.egg-info/requires.txt
+[0.631s] writing top-level names to ../../build/robotic_arm_description/robotic_arm_description.egg-info/top_level.txt
+[0.632s] reading manifest file '../../build/robotic_arm_description/robotic_arm_description.egg-info/SOURCES.txt'
+[0.632s] writing manifest file '../../build/robotic_arm_description/robotic_arm_description.egg-info/SOURCES.txt'
+[0.632s] running build
+[0.632s] running build_py
+[0.632s] running install
+[0.633s] running install_lib
+[0.633s] running install_data
+[0.633s] running install_egg_info
+[0.634s] removing '/home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description-0.0.0-py3.10.egg-info' (and everything under it)
+[0.635s] Copying ../../build/robotic_arm_description/robotic_arm_description.egg-info to /home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages/robotic_arm_description-0.0.0-py3.10.egg-info
+[0.635s] running install_scripts
+[0.646s] writing list of installed files to '/home/utkarsh/arm_ws/build/robotic_arm_description/install.log'
+[0.660s] Invoked command in '/home/utkarsh/arm_ws/src/robotic_arm_description' returned '0': PYTHONPATH=/home/utkarsh/arm_ws/build/robotic_arm_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/robotic_arm_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/robotic_arm_description build --build-base /home/utkarsh/arm_ws/build/robotic_arm_description/build install --record /home/utkarsh/arm_ws/build/robotic_arm_description/install.log --single-version-externally-managed install_data

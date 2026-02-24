@@ -1,0 +1,2 @@
+Invoking command in '/home/utkarsh/arm_ws/build/motion_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/utkarsh/arm_ws/build/motion_control -- -j16 -l16
+Invoked command in '/home/utkarsh/arm_ws/build/motion_control' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/utkarsh/arm_ws/build/motion_control -- -j16 -l16

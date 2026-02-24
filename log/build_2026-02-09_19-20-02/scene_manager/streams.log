@@ -1,0 +1,37 @@
+[0.569s] Invoking command in '/home/utkarsh/arm_ws/src/scene_manager': PYTHONPATH=/home/utkarsh/arm_ws/build/scene_manager/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scene_manager build --build-base /home/utkarsh/arm_ws/build/scene_manager/build install --record /home/utkarsh/arm_ws/build/scene_manager/install.log --single-version-externally-managed install_data
+[0.721s] running egg_info
+[0.721s] creating ../../build/scene_manager/scene_manager.egg-info
+[0.721s] writing ../../build/scene_manager/scene_manager.egg-info/PKG-INFO
+[0.721s] writing dependency_links to ../../build/scene_manager/scene_manager.egg-info/dependency_links.txt
+[0.721s] writing entry points to ../../build/scene_manager/scene_manager.egg-info/entry_points.txt
+[0.722s] writing requirements to ../../build/scene_manager/scene_manager.egg-info/requires.txt
+[0.722s] writing top-level names to ../../build/scene_manager/scene_manager.egg-info/top_level.txt
+[0.722s] writing manifest file '../../build/scene_manager/scene_manager.egg-info/SOURCES.txt'
+[0.723s] reading manifest file '../../build/scene_manager/scene_manager.egg-info/SOURCES.txt'
+[0.723s] writing manifest file '../../build/scene_manager/scene_manager.egg-info/SOURCES.txt'
+[0.723s] running build
+[0.723s] running build_py
+[0.723s] creating /home/utkarsh/arm_ws/build/scene_manager/build
+[0.724s] creating /home/utkarsh/arm_ws/build/scene_manager/build/lib
+[0.724s] creating /home/utkarsh/arm_ws/build/scene_manager/build/lib/scene_manager
+[0.724s] copying scene_manager/__init__.py -> /home/utkarsh/arm_ws/build/scene_manager/build/lib/scene_manager
+[0.724s] copying scene_manager/add_box.py -> /home/utkarsh/arm_ws/build/scene_manager/build/lib/scene_manager
+[0.724s] running install
+[0.724s] running install_lib
+[0.725s] creating /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager
+[0.725s] copying /home/utkarsh/arm_ws/build/scene_manager/build/lib/scene_manager/__init__.py -> /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager
+[0.725s] copying /home/utkarsh/arm_ws/build/scene_manager/build/lib/scene_manager/add_box.py -> /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager
+[0.725s] byte-compiling /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager/__init__.py to __init__.cpython-310.pyc
+[0.725s] byte-compiling /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager/add_box.py to add_box.cpython-310.pyc
+[0.725s] running install_data
+[0.725s] creating /home/utkarsh/arm_ws/install/scene_manager/share/ament_index
+[0.726s] creating /home/utkarsh/arm_ws/install/scene_manager/share/ament_index/resource_index
+[0.726s] creating /home/utkarsh/arm_ws/install/scene_manager/share/ament_index/resource_index/packages
+[0.726s] copying resource/scene_manager -> /home/utkarsh/arm_ws/install/scene_manager/share/ament_index/resource_index/packages
+[0.726s] copying package.xml -> /home/utkarsh/arm_ws/install/scene_manager/share/scene_manager
+[0.726s] running install_egg_info
+[0.727s] Copying ../../build/scene_manager/scene_manager.egg-info to /home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages/scene_manager-0.0.0-py3.10.egg-info
+[0.727s] running install_scripts
+[0.742s] Installing add_box script to /home/utkarsh/arm_ws/install/scene_manager/lib/scene_manager
+[0.742s] writing list of installed files to '/home/utkarsh/arm_ws/build/scene_manager/install.log'
+[0.758s] Invoked command in '/home/utkarsh/arm_ws/src/scene_manager' returned '0': PYTHONPATH=/home/utkarsh/arm_ws/build/scene_manager/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/utkarsh/arm_ws/install/scene_manager/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/scene_manager build --build-base /home/utkarsh/arm_ws/build/scene_manager/build install --record /home/utkarsh/arm_ws/build/scene_manager/install.log --single-version-externally-managed install_data
