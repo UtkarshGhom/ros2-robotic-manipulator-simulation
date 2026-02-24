@@ -1,1 +1,0 @@
-/home/utkarsh/arm_ws/src/moveit_cfg/launch/spawn_controllers.launch.py

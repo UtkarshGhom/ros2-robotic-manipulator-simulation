@@ -1,1 +1,0 @@
-/home/utkarsh/arm_ws/src/moveit_cfg/launch/warehouse_db.launch.py

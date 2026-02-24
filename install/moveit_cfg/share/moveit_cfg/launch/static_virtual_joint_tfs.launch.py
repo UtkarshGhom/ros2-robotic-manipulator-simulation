@@ -1,1 +1,0 @@
-/home/utkarsh/arm_ws/src/moveit_cfg/launch/static_virtual_joint_tfs.launch.py
